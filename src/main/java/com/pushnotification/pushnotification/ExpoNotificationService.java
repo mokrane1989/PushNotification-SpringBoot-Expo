@@ -13,8 +13,8 @@ public class ExpoNotificationService {
     public void sendExpoNotification(String token, String title, String body) throws InterruptedException, PushClientException {
 
 
-        //  ExponentPushToken[j8N0vhJ1szGiKyixci4Vch]
-        //  ExponentPushToken[CQcY18H-Y-pK7WVOWfyx7D]
+        //  ExponentPushToken[]
+       
 
 
 
