@@ -21,7 +21,7 @@ public class NotificationController {
                                                    @RequestParam String body) {
 
 
-        List<String> supplierNames = Arrays.asList("ExponentPushToken[CQcY18H-Y-pK7WVOWfyx7D]" , "ExponentPushToken[j8N0vhJ1szGiKyixci4Vch]");
+        List<String> supplierNames = Arrays.asList("ExponentPushToken[]" , "ExponentPushToken[]");
 
         supplierNames.stream().forEach((e)->
                 {
